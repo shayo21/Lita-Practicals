@@ -29,5 +29,18 @@ The primary source of Data used is Companies sales.xls files and this is and thi
     2. For Data Transformation
     3. For Power Query
     4. For Data Visualization
+
+### Data Entry in Excel
+In the first stage of Data Entry in Excel, we performed the following actions;
+1. Data Entry Fundamentals
+2. Formatting in Excel
+3. Data Validation
+
+### Data Cleaning and Preparation
+In the initial phase of Data cleaning and preparation, the following actions were performed;
+1. Data loading and inspection
+2.  
+
+       
        
 
