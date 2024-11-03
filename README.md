@@ -39,7 +39,7 @@ In the first stage of Data Entry in Excel, we performed the following actions;
 ### Data Cleaning and Preparation
 In the initial phase of Data cleaning and preparation, the following actions were performed;
 1. Data loading and inspection
-2.  
+2. Data 
 
        
        
