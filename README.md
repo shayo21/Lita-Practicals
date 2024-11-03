@@ -45,9 +45,9 @@ In the initial phase of Data cleaning and preparation, the following actions wer
 
 
 
+https://github.com/shayo21/Lita-Practicals/blob/main/Folashayo's_text_2.1_cleaning%5B1%5D.jpg
 
-
-
+Folashayo's_text_2.1_cleaning[1].jpg
 
 
 
