@@ -47,9 +47,7 @@ In this project, the following actions were performed;
 2. Data calculations using Excel Functions
 3. Data transformation using some commands in excel
 
-
 ![Screenshot_20241104-121610](https://github.com/user-attachments/assets/37f5a10b-98dc-4cc9-9c85-77b1306a0c17)
-
 
 ![Screenshot_20241104-121622](https://github.com/user-attachments/assets/05d3690f-5c6c-4808-bbf1-9f19bb9351a5)
    
@@ -58,6 +56,15 @@ In the initial phase of Data cleaning and preparation, the following actions wer
 1. Data loading and inspection
 2. Data Cleaning using Excel Function
 3. Using various commands and short for data cleaning 
+
+![Screenshot_20241104-134302](https://github.com/user-attachments/assets/f7afd3fd-9b11-4ef2-8fb3-63a358da3b38)
+
+![Screenshot_20241104-131847](https://github.com/user-attachments/assets/14c3570c-fbdb-409d-91dd-0329309b0702)
+
+![Screenshot_20241104-131901](https://github.com/user-attachments/assets/ae17d4dc-58f3-4ff4-a921-fb28899a57d8)
+
+
+
 
 
 
