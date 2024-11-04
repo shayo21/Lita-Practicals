@@ -36,18 +36,26 @@ In the first stage of Data Entry in Excel, we performed the following actions;
 2. Formatting in Excel
 3. Data Validation
 
+![Screenshot_20241104-112633](https://github.com/user-attachments/assets/a7ed9856-9d7a-463a-aecd-543f9d9e6ce1)
+
+![Screenshot_20241104-112633](https://github.com/user-attachments/assets/5d9da76c-5e0d-4eca-9fda-31e9ce25ddb6)
+
+
 ### Data Cleaning and Preparation
 In the initial phase of Data cleaning and preparation, the following actions were performed;
 1. Data loading and inspection
-2. Data
-3. 
+2. Data Cleaning using Excel Function
+3. Using various commands and short for data cleaning 
 
 
 
 
-https://github.com/shayo21/Lita-Practicals/blob/main/Folashayo's_text_2.1_cleaning%5B1%5D.jpg
 
-Folashayo's_text_2.1_cleaning[1].jpg
+
+
+
+
+Folashayo's_text_2.1_cleaning[1]
 
 
 
