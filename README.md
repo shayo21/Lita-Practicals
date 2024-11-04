@@ -41,6 +41,34 @@ In the first stage of Data Entry in Excel, we performed the following actions;
 ![Screenshot_20241104-112633](https://github.com/user-attachments/assets/5d9da76c-5e0d-4eca-9fda-31e9ce25ddb6)
 
 
+### Data Analysis and Calculations 
+In this project, the following actions were performed;
+1. Data loading and inspection
+2. Data calculations using Excel Functions
+3. Data transformation using some commands in excel
+
+
+![Screenshot_20241104-121610](https://github.com/user-attachments/assets/37f5a10b-98dc-4cc9-9c85-77b1306a0c17)
+
+
+![Screenshot_20241104-121622](https://github.com/user-attachments/assets/05d3690f-5c6c-4808-bbf1-9f19bb9351a5)
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Data Cleaning and Preparation
 In the initial phase of Data cleaning and preparation, the following actions were performed;
 1. Data loading and inspection
@@ -54,8 +82,6 @@ In the initial phase of Data cleaning and preparation, the following actions wer
 
 
 
-
-Folashayo's_text_2.1_cleaning[1]
 
 
 
