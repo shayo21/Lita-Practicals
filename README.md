@@ -53,22 +53,6 @@ In this project, the following actions were performed;
 
 ![Screenshot_20241104-121622](https://github.com/user-attachments/assets/05d3690f-5c6c-4808-bbf1-9f19bb9351a5)
    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Data Cleaning and Preparation
 In the initial phase of Data cleaning and preparation, the following actions were performed;
 1. Data loading and inspection
