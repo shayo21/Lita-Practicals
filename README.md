@@ -101,6 +101,22 @@ In the initial phase of Data cleaning and preparation, the following actions wer
 
 ![Screenshot_20241104-132617](https://github.com/user-attachments/assets/5991aa9e-c98e-4d53-9aa9-e20326e1a9ee)
 
+### Pivot Table 
+In this project,the following actions were performed using pivot table;
+![IMG_20241105_202236](https://github.com/user-attachments/assets/e0361e44-ce7c-462a-863f-094d0595b14e)
+
+![IMG_20241105_202314](https://github.com/user-attachments/assets/554a49b7-d5c1-4e6d-a022-52623d8af4e6)
+
+![IMG_20241105_202330](https://github.com/user-attachments/assets/ecdebe8b-fbb9-43d1-8718-993b36b0e2b0)
+
+![IMG_20241105_210940](https://github.com/user-attachments/assets/f2b41133-381d-424c-9d7c-f59e14319f75)
+
+![IMG_20241105_210953](https://github.com/user-attachments/assets/b6fe1945-12eb-4fb4-b7c1-1ae0724ad106)
+
+
+
+
+
 
 
 
