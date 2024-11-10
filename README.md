@@ -3,10 +3,10 @@
 ### PROJECT TITLE: Company Sales Analysis
 
 ### Project Overview
-This Data Analysis project aims at generating insights on how to carryout Data Entries in excel by exploring companies sales data over the years. The data analyzed is a primary source given which the data were sourced from primary inputs or resources. The project gives quality insights on how to enter data in excel using differents methods and applications to make broader documentations and reports easier to access in a simplified format. It also gives insights on how to clean and extract values or text in excel using applicaqble approches and functions, and some other data analysis tools. This project objectives is to clearly show the sales performance of companies over the past years and give qualitative analysis to prevent loss of capital winding up of company, sales depreciation, and some other factors.   
+This Data Analysis project aims to generate insights on how to carryout Data Entries in Excel by exploring companies sales data over the years. The data analyzed is a primary source given that the data were sourced from primary inputs or resources. The project gives quality insights on how to enter data in Excel using different methods and applications to make broader documentation and reports easier to access in a simplified format. It also gives insights on how to clean and extract values or text in Excel using applicable approaches and functions, and some other data analysis tools. This project's objective is to clearly show the sales performance of companies over the past years and give qualitative analysis to prevent loss of capital winding up of the company, sales depreciation, and some other factors.   
 
 ### Data Sources
-The primary source of Data used is Companies sales.xls files and this is and this is an open source data that can be freely downloaded from an online sites open source site such as kaggle, FRED, datagov or any other data repository sites.
+The primary source of Data used is Company sales xls file which is open-source data that can be freely downloaded from an online site open source site such as Kaggle, FRED, data gov or any other data repository sites.
 
 ### Tools Used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
@@ -102,7 +102,7 @@ In the initial phase of Data cleaning and preparation, the following actions wer
 ![Screenshot_20241104-132617](https://github.com/user-attachments/assets/5991aa9e-c98e-4d53-9aa9-e20326e1a9ee)
 
 ### Pivot Table 
-In this project,the following actions were performed using pivot table;
+In this project, the following actions were performed using a pivot table;
 ![IMG_20241105_202236](https://github.com/user-attachments/assets/e0361e44-ce7c-462a-863f-094d0595b14e)
 
 ![IMG_20241105_202314](https://github.com/user-attachments/assets/554a49b7-d5c1-4e6d-a022-52623d8af4e6)
@@ -114,6 +114,25 @@ In this project,the following actions were performed using pivot table;
 ![IMG_20241105_210953](https://github.com/user-attachments/assets/b6fe1945-12eb-4fb4-b7c1-1ae0724ad106)
 
 
+
+
+
+
+
+### Power BI
+
+- Data Cleaning and Transformation(Excel Function 2)
+  
+![FOLASHAYO'S TEXT 4 CLEANING](https://github.com/user-attachments/assets/0fdd1d37-0b34-4e53-84da-82285cc51d6a)
+
+
+![FOLASHAYO'S TEXT 3 CLEANING](https://github.com/user-attachments/assets/60b6dd16-4229-434b-98df-8df8b1ad5d86)
+
+
+![FOLASHAYO'S TEXT 2 2 CLEANING](https://github.com/user-attachments/assets/a492cb05-25e3-48af-8b17-0d44fc0c98ec)
+
+
+![FOLASHAYO'S TEXT 2 1 CLEANING](https://github.com/user-attachments/assets/bc111acf-2833-4f69-bb19-65caef2f164c)
 
 
 
