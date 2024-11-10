@@ -45,7 +45,7 @@ In the first stage of Data Entry in Excel, we performed the following actions;
 In this project, the following actions were performed;
 1. Data loading and inspection
 2. Data calculations using Excel Functions
-3. Data transformation using some commands in excel
+3. Data transformation using some commands in Excel
 ### Excel Function 1
 ![Screenshot_20241104-121610](https://github.com/user-attachments/assets/37f5a10b-98dc-4cc9-9c85-77b1306a0c17)
 
